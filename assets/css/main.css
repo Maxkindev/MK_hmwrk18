@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background-color: #3A3D41;
+}
+
+.container {
+  margin-top: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.btn {
+  margin-right: 5px;
+}
+
+.alert {
+  margin-top: 16px;
+}
+
+.fb-tooltip-wrapper {
+  display: inline-block;
+}
+
+/* MOMENT.JS */
+.date--show {
+  text-align: center;
+  color: #DCDCDC;
+}
+
+.form {
+  width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  color: #DCDCDC;
+  outline: 1px solid royalblue;
+}
